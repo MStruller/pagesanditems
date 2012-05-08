@@ -1,6 +1,6 @@
 <?php
 /**
-* @version		2.1.3
+* @version		2.1.5
 * @package		PagesAndItems
 * @copyright	Copyright (C) 2006-2012 Carsten Engel. All rights reserved.
 * @license		http://www.gnu.org/copyleft/gpl.html GNU/GPL
@@ -901,11 +901,6 @@ $status->plugins = $install_plugins->installUseXML($parent);
 * ---------------------------------------------------------------------------------------------
 ***********************************************************************************************/
 $rows = 0;
-
-//reset version checker session var
-$app = &JFactory::getApplication();
-$app->setUserState( "com_pagesanditems.latest_version_message", '' );	
-
 ?>
 
 <div style="width: 500px; text-align: left;">

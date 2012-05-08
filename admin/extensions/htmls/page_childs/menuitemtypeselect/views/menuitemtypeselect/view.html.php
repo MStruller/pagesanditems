@@ -387,7 +387,7 @@ class PagesAndItemsViewMenuItemTypeSelect extends PagesAndItemsViewDefault
 						&amp;url[view]=archive
 						&amp;menutype=customcontent"
 
-						 title="Archived Article List Layout::Das Standardlayout für archivierte Beiträge zeigt Beiträge die archiviert wurden. Sie sind nach dem Datum durchsuchbar.">Archived Article List Layout</a></div></li>
+						 title="Archived Article List Layout::Das Standardlayout fï¿½r archivierte Beitrï¿½ge zeigt Beitrï¿½ge die archiviert wurden. Sie sind nach dem Datum durchsuchbar.">Archived Article List Layout</a></div></li>
 
 						*/
 
